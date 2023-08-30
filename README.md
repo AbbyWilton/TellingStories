@@ -19,6 +19,6 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 ### Homework Visualizations
 
 ### Final Project
-[Part 1] Project Proposal
-[Part 2] Sketches, Wireframes, Storyboards
-[Part 3] Final Deliverable and Presentation
+[Part 1](Project Proposal)
+[Part 2](Sketches, Wireframes, Storyboards)
+[Part 3](Final Deliverable and Presentation)
