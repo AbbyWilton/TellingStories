@@ -17,7 +17,7 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 ### Visualization Critiques
 
 ### Homework Visualizations
-[Visualizing Governemt Debt](/visualizingGovernmentDebt.md)
+[Visualizing Government Debt](/visualizingGovernmentDebt.md)
 
 ### Final Project
 Part 1- Project Proposal
