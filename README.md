@@ -1,5 +1,4 @@
-# Wilton_PublicPortfolio
-This is my public portfolio for Telling Stories. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University. 
 # My page URL:
 https://abbywilton.github.io/Wilton_publicPortfolio/
 
