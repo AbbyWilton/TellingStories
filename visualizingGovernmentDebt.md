@@ -15,6 +15,6 @@ Below we see the changes in Government Debt to GDP Ratios over time, and how eac
   I wanted to combine the first and second visualization to get both rankings and trends. The third visualization, created on Flourish.studio using the same OECD data, is a animated bar chart called a bar chart race graph. It allows users to see how countries compared against each other as in the first visualization and how each country changed over time as in the second visualization. It still gives the user the ability to pinpoint specific years by clicking on the timeline, as well as excluding certain countries by clicking on that country in the legend. The interactive nature of the visualization makes it useful in comparing overall trends and seeing how countries moved up or down in their ratio. However, it also makes it difficult to see those trends all together in a static manner like the second visualization does. 
 
 Sources: OECD Data Download Site https://data.oecd.org/gga/general-government-debt.htm
-[Home Page](
+[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
 
 
