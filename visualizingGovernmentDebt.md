@@ -5,3 +5,6 @@
 ## Debt to GDP Ratio
 Below we see the Debt to GDP ratio for each country from 1995 to 2019.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14950207"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Visualizing the changes in Debt to GDP Ratio over time
+<div class="flourish-embed flourish-chart" data-src="visualisation/14962360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
