@@ -12,6 +12,7 @@ I think that data visualizations and efficiently telling their stories is an oft
 Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 
 ### Class Examples
+[Tableau Demonstration](/tableauDemo.md)
 
 ### Visualization Critiques
 
