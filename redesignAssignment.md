@@ -43,4 +43,37 @@ to look at and comprehend. I also wanted it to be able to be printed, so limitin
 I initially started with two initial rough sketches, seen below. The first being a bar chart that would be ranked from highest 2018 salary to lowest. The second being a tree diagram where size of the rectangle would indicate relative
 percent change in salary. The bar chart had no colors, but had labels to indicate current salary and percent change. The tree diagram had color to indicate degree of change, with red indicating a loss in salary. 
 
+<img src="BarGraphSketch.jpeg" alt="BarGraph" width="500"/>
+
+<img src="TreeDiagram.jpeg" alt="TreeDiag" width="500"/>
+
+Before starting interviews and gathering user feedback, I had already formed some opinions on improvements that could be made and which visual was better. However, I wanted to see what other individuals gathered from the two visuals before making any decisions. For reference, the first visual is the bar graph and tree diagram the second. The feedback as as follows:
+
+**female, 31, lab scientist** 
+*What do you see in these visuals right away?* Change in professor salaries per state over time.
+
+*Do you prefer one visual to the other, and why?* The second visual is harder to understand and comprehend. I cannot see the smallest states. 
+
+*Which visual would you use and is there anything you would change or questions you have about it?* The bar chart. Is the graph purely the increase or total with
+the increase? For example, is D.C. increased by $100k so they make $200k now or is it $100k now and was $80k? I would like to see the 1994 salary to better show the increase.
+
+**male, 53, college professor**
+*What do you see in these visuals right away?* Change in salary. Professors looking for work and where to go could use.
+
+*Do you prefer one visual to the other, and why?* I do not know how to read the second graph (Tree diagram). The bar chart is simple and easy.
+
+*Which visual would you use and is there anything you would change or questions you have about it?* The bar chart. Maybe show the top and bottom states for comparison.
+
+**female, 65, retired teacher**
+*What do you see in these visuals right away?* Change in salary. Big differences in the states. Some states loss overall salary.
+
+*Do you prefer one visual to the other, and why?* I like the color in the second to show the differences in change, but the bar chart is easier to read. It took me less time to understand.
+
+*Which visual would you use and is there anything you would change or questions you have about it?* The bar chart. I want to see the 1994 salary so I know what the increase actually means. Maybe add color like in the second visual to show differences in salaries.
+
+From these, I discovered that most people do not know what a tree diagram is from a bare minimum sketch. If I was going to use that, I should have had a full example visual. However, I do not think it would have been useful as it seems like it is not well known and not easy to read. The bar chart was by far the favorite. But, most people wanted to see the 1994 salary or a reference to them. A majority of the feedback received can be implemented and was doable given the data. 
+
+# Part V: Final Design
+After conducting testing, I decided to stick with a bar chart. I organized the bar chart from highest 2018 salary to lowest. This still does not tell the whole story. For example, Alaska is around the middle in terms of 2018 salary, but it had a decrease in overall salary since 1994. So, to show this I added the color gradient to indicate the change in salary with a legend on the side. I also labeled each bar with the 2018 salary and percent change. Finally, I added a reference line for the 1994 salary. This allows readers to easily reference the original point without adding additional clutter to the labels or colors. 
+
 
