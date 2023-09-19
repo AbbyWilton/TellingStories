@@ -4,8 +4,10 @@
 The original visualization can be found in the article *Study: For Full-Time College Faculty, Inflation-Adjusted Salaries Up Only 9.5% Since 1970* at
 [Lending Tree](https://www.lendingtree.com/student/historical-faculty-pay-study/#:~:text=The%20average%20salary%20for%20full,had%20only%20risen%20to%20%2488%2C703.).
 Approximately halfway down the page is a subsection titled *Faculty salary increases by state, from the District of Columbia to New Mexico*. Here you will find the visualization titled *State look: Where faculty pay has risen the most*, 
-this is the original visualilzation I redesigned. 
+this is the original visualilzation I redesigned (also below).
 
+<img src="ogPicture.PNG" alt="original" width="500"/>
+Source: [LendingTree](https://www.lendingtree.com/student/historical-faculty-pay-study/#:~:text=The%20average%20salary%20for%20full,had%20only%20risen%20to%20%2488%2C703.).
 This visualization is two parts, the first being an interactive map of the United States and the second being an accompanying table of data. I chose to redesign this visualization for a few reasons. 
 The first being that have numerous family members involved in the education system and so the pay of professors and educators is a topic that I have a vested interest in. Second, I found this visualization to be good, but not great. 
 There are numerous visualizations within the article and most of them are very well done. They are easy to read and require little additional thought by the reader to comprehend and digest. 
