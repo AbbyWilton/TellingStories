@@ -76,4 +76,6 @@ From these, I discovered that most people do not know what a tree diagram is fro
 # Part V: Final Design
 After conducting testing, I decided to stick with a bar chart. I organized the bar chart from highest 2018 salary to lowest. This still does not tell the whole story. For example, Alaska is around the middle in terms of 2018 salary, but it had a decrease in overall salary since 1994. So, to show this I added the color gradient to indicate the change in salary with a legend on the side. I also labeled each bar with the 2018 salary and percent change. Finally, I added a reference line for the 1994 salary. This allows readers to easily reference the original point without adding additional clutter to the labels or colors. 
 
+I found throughout the redesign that it was more difficult than expected to be able to show all of the information I wanted to in one graph. It gave me a slight new appreciation for the original graph and I now better understand why there were two graphs instead of one. However, even though it was difficult, I decided to stick with one single graph. The final graph is below.
+
 
