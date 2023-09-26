@@ -1,6 +1,4 @@
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University. 
-# My page URL:
-https://abbywilton.github.io/Wilton_publicPortfolio/
 
 ## About me
 Hello. I am a current MISM-BIDA student set to graduate in May. I will continue working for the US Army following the completion of this program. Outside of school, I enjoy spending time with my family, cooking, exploring nature, and going to concerts.
