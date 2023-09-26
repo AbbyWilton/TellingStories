@@ -22,6 +22,8 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 [Critique By Redesign](/redesignAssignment.md)
 
 ### Final Project
-Part 1- Project Proposal
+Part 1- [Project Proposal and Overview](/finalProjectP1.md)
+
 Part 2- Sketches, Wireframes, Storyboards
+
 Part 3- Final Deliverable and Presentation
