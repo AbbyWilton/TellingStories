@@ -64,7 +64,7 @@ Additional data on the laws and regulations regarding equal pay will be pulled f
 | U.S. Department of Labour Women's Bureau: Equal Pay in the United States | https://www.dol.gov/sites/dolgov/files/WB/equalpay/508_WB_issuebrief-equal-pay_03142023.pdf | This is a brief issued by the Women's Bureau of the DOL that provides information and a timeline of equal pay regulations and legislation. It will be used as both background and as part of the call to action. |
 
 ## Method and Medium
-There is a vast amount of data involved in this project from various sources. In order to keep it organized, data cleaning and preparation will be completed using Tableau Prep. Then, data analysis and visualizations for this project will be done utilzing Tableau Desktop. The story will be compiled and visualized utilizing Shorthand. Throughout the process of creating and refining the story an accompanying visualizations, I will utilize user feedback through surveys and general conversations to determine where changes need to be made. 
+There is a vast amount of data involved in this project from various sources. In order to keep it organized, data cleaning and preparation will be completed using Tableau Prep. Then, data analysis and visualizations for this project will be done utilzing Tableau Desktop and Flourish Studio. The story will be compiled and visualized utilizing Shorthand. Throughout the process of creating and refining the story an accompanying visualizations, I will utilize user feedback through surveys and general conversations to determine where changes need to be made. 
 
 ## References
 
