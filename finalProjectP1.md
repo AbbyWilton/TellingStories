@@ -27,6 +27,12 @@ The bulk of the raw data can be downloaded from [Data USA: Restaurants & Food Se
 
 Additional data on the laws and regulations regarding equal pay will be pulled from [Department of Labor](https://www.dol.gov/agencies/wb/equal-pay-protections). This data will be used as a baseline about what the laws currently are and will help to tell the overall story. In this manner, it will serve as regulations and laws and will be compared against the data to evalutate "adherence" by the industry. The laws and regulations will also be used as part of the presented solution, with discussion on what the average person can do.
 
+| Name | URL | Description |
+|------|-----|-------------|
+|      |     |             |
+|      |     |             |
+|      |     |             |
+
 ## Method and Medium
 There is a vast amount of data involved in this project from various sources. In order to keep it organized, data cleaning and preparation will be completed using Tableau Prep. Then, data analysis and visualizations for this project will be done utilzing Tableau Desktop. The story will be compiled and visualized utilizing Shorthand.
 
