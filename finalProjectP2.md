@@ -1,8 +1,7 @@
 # Part 2: Wireframing and User Feedback
 ## Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+Visit the story in [shorthand](https://preview.shorthand.com/xvpkBa5g9VhmZBcb).
+The story is laid out into 5 sections, separting the sections of the story. The visualizations were done in Tableau. To try and help transition from section to section, I tried to end each section with a question leading the audience to the next section. 
 
 ## User research 
 
@@ -16,17 +15,15 @@ For each participant, I will follow the same general script as seen below. As ea
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| General Understanding     |   What did you learn from the story?               |
+| General Understanding    |    How did the story make you feel?              |
+| Visual Understanding    |  Were any of the visuals confusing? If so, why?                |
+| Visual Understanding    |  What did you like about the visualizations?               |
+| Visual Understanding    |  What, if anything, would you change about the visualizations?               |
 
-
-Text here!
 
 ### Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+OVERVIEW OF PROCESS AND HOW IT WENT
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -36,9 +33,7 @@ Text here!
 
 
 ## Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+GENERAL FINDINGS
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -48,6 +43,4 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+FINAL THOUGHTS
