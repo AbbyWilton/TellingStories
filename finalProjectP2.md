@@ -18,7 +18,7 @@ For each participant, I will follow the same general script as seen below. As ea
 | General Story Understanding     |   What did you learn from the story?               |
 | General Story Understanding    |    How did the story make you feel?              |
 | General Story Understanding    |    Was anything confusing or unclear in the text/story overall?             |
-| Visual Story Understanding    |  Were any of the visualization confusing? If so, why?                |
+| Visual Story Understanding    |  Were any of the visualizations confusing? If so, why?                |
 | Visual Story Understanding    |  What did you like about the visualizations?               |
 | Visual Story Understanding    |  What, if anything, would you change about the visualizations?               |
 | Acknowledgement of Way Forward | Do you feel like you are better informed moving forward? |
