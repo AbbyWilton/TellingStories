@@ -1,7 +1,7 @@
 # Part 2: Wireframing and User Feedback
 ## Wireframes / storyboards
 Visit the story in [shorthand](https://preview.shorthand.com/xvpkBa5g9VhmZBcb).
-The story is laid out into 5 sections, separting the sections of the story. The visualizations were done in Tableau. To try and help transition from section to section, I tried to end each section with a question leading the audience to the next section. 
+The story is laid out into 5 sections, separting the sections of the story. The visualizations were done in Tableau. To try and help transition from section to section, I tried to end each section with a question leading the audience to the next section. The general context from the story is similar to the initial detailed outline with some additional information added. 
 
 ## User research 
 
