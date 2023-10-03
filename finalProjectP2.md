@@ -25,13 +25,17 @@ For each participant, I will follow the same general script as seen below. As ea
 
 
 ### Interview findings
-OVERVIEW OF PROCESS AND HOW IT WENT
+Each of the three interviews was conducted via FaceTime. All three were done separately. I gave each user a few minutes to read through the story and then worked through the questions and expanded to get full answers were necessary. The results are summarized below. 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions | Interview 1: 30 year old female, worked as a waitress for 5 years | Interview 2: 35 year old male, worked as a waiter and manager for 10 years | Interview 3: 53 year old male, never worked in a restaurant |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What did you learn from the story?  | I learned that there are more men in management positions and more female waitresses in the food industry |I knew a lot of the information, but not the actual numbers and statistics.  | Women make significantly less than men in food service. I was surprised to see how much and the trend as they age. Also, food service spending is down significantly after pandemic. |
+| How did the story make you feel?    | The story made me want to research the issue more.| Neutral  |Frustrated. This disparity should not exist. Even if we account for some contextual variables that might lower the female wage (returning to workforce after home making, etc), the disparity is still far too great |
+| Was anything confusing or unclear in the text/story overall?   | Everything made sense except you didn't account for locale. Could it be that the women, in particular, in management positions are located in areas with a lower cost of living and therefore overall wages are less? Are men more likely to be working in cities in NY, CA, FL, etc., where wages tend to be higher to compensate for the cost of living? If that's the case then the wage disparity makes sense and when you account for cost of living differences, it's not that bad. |No, but you did not account for tips. Most females are waitresses and although all tips should be reported, they are not. How would adding tips affect the numbers? Do men get tipped more than women on average? | No |
+| Were any of the visualizations confusing? If so, why? |The visualization for gender, occupation, and wage requires you to scroll right in order to see the "Male" column. It's not a huge deal but I was confused at first when I only saw "Female"| No | The graph describing Occupation distribution by gender was hard to follow. The boxes were the same size and differentiated by color. A standard bar graph may have been better.|
+| What did you like about the visualizations? | I liked how they were interactive and they weren't all the same.| They were easy to understand.  |The information flowed and built an argument that was easy to follow. the information was easy to disseminate from the graphs and charts |
+| What, if anything, would you change about the visualizations? |I would just change the one I mentioned above to display all the data at once. The first chart (Consumer Spending Trends) is too tall to fit on the screen so you can't see the whole graph at once. I think it takes away some of the effects of the graph. The white text against the lemon background is not the easiest to read. | I would change the backgrounds to help the data stick out more and make the colors across the data either consistent or all different. There were some that were green, purple, and blue but only a couple of each color.| See confusing visual question |
+| Do you feel like you are better informed moving forward? |I do feel more informed, particularly about the wage difference in management positions. Also, it's interesting to know that most men are cooks and management. Interestingly enough, all the cooks and managers at my restaurant were male.  |Yes| Absolutely |
 
 
 ## Identified changes for Part III
