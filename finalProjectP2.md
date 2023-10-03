@@ -38,8 +38,12 @@ Each of the three interviews was conducted via FaceTime. All three were done sep
 | Do you feel like you are better informed moving forward? |I do feel more informed, particularly about the wage difference in management positions. Also, it's interesting to know that most men are cooks and management. Interestingly enough, all the cooks and managers at my restaurant were male.  |Yes| Absolutely |
 
 What I liked about these interviews is that each individual had a slightly different outlook and opinion on the issue, even if they had worked in the restaurant industry. There were some commonalities between all three interviews and others that were different but implementable. 
+
+I did an additonal informal interview in class with 3 females. Their feedback focused primarily on pre-attentive attributes. They suggested that I streamline color throughout the presentation, change some of the layouts of my visualizations, and make text eaily readable. Additionally, since my audience focuses on females in the workplace, a good suggestion I received was to list more in the resources page. 
+
 ## Identified changes for Part III
-GENERAL FINDINGS
+
+There were some patterns throughout One was color. The comments were that the colors within the visualizations themselves had too many colors. Another common comment was about the layout of some of the visualizations, being hard to read or too small. One comment I found interesting was that it doesnt account for tips. I do not think it is possible to include that because the tip structure differs so much throughout the industry, but I do think a simple caveate would helpful to make it clear. Another comment mentioned that I did not account for locale. This is a very interesting point that could be explored, if time permits. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
