@@ -45,12 +45,11 @@ I did an additonal informal interview in class with 3 females. Their feedback fo
 
 There were some patterns throughout One was color. The comments were that the colors within the visualizations themselves had too many colors. Another common comment was about the layout of some of the visualizations, being hard to read or too small. One comment I found interesting was that it doesnt account for tips. I do not think it is possible to include that because the tip structure differs so much throughout the industry, but I do think a simple caveate would helpful to make it clear. Another comment mentioned that I did not account for locale. This is a very interesting point that could be explored, if time permits. 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+**Changes to Implement**
+1. Streamline colors
+2. Think more about layout of visualizations and adjust accordingly
+3. Build out the resources page to include more actionable information
+4. Build out context and add caveates if necessary
+5. Find data about cost of living/locale, wages and incorporate it into the presentation
 
 FINAL THOUGHTS
