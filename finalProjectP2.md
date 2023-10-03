@@ -8,7 +8,7 @@ The story is laid out into 5 sections, separting the sections of the story. The 
 ### Target audience
 Females who work in the food and restaurant industry are my primary audience. I want to give them the data to be able to represent themselves at job interviews and meetings. The secondary audience is the general voting public. I want to give them information and resources to be able to contribute to change through activism and voting.
 
-To find individuals to interview, I will look for at least two (possibly three) females and two males. Within each group, I want one that is in the food and restaurant industry, and one that is outside of it. This will give me a more holistic viewpoint while still focusing on the primary audience. 
+To find individuals to interview, I will look for at least two (possibly three) females and two males. Within each group, I want one that is in the food and restaurant industry, and one that is outside of it. This will give me a more holistic viewpoint while still focusing on the primary audience. Luckily, there are numerous individuals in my life who have worked or do work within the restaurant industry, as well as ones who do not and never have.
 
 ### Interview script
 For each participant, I will follow the same general script as seen below. As each interview develops, I may veer from these questions to enable better flow and get more descriptive answers. 
@@ -37,7 +37,7 @@ Each of the three interviews was conducted via FaceTime. All three were done sep
 | What, if anything, would you change about the visualizations? |I would just change the one I mentioned above to display all the data at once. The first chart (Consumer Spending Trends) is too tall to fit on the screen so you can't see the whole graph at once. I think it takes away some of the effects of the graph. The white text against the lemon background is not the easiest to read. | I would change the backgrounds to help the data stick out more and make the colors across the data either consistent or all different. There were some that were green, purple, and blue but only a couple of each color.| See confusing visual question |
 | Do you feel like you are better informed moving forward? |I do feel more informed, particularly about the wage difference in management positions. Also, it's interesting to know that most men are cooks and management. Interestingly enough, all the cooks and managers at my restaurant were male.  |Yes| Absolutely |
 
-
+What I liked about these interviews is that each individual had a slightly different outlook and opinion on the issue, even if they had worked in the restaurant industry. There were some commonalities between all three interviews and others that were different but implementable. 
 ## Identified changes for Part III
 GENERAL FINDINGS
 
