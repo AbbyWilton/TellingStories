@@ -43,13 +43,16 @@ I did an additonal informal interview in class with 3 females. Their feedback fo
 
 ## Identified changes for Part III
 
-There were some patterns throughout One was color. The comments were that the colors within the visualizations themselves had too many colors. Another common comment was about the layout of some of the visualizations, being hard to read or too small. One comment I found interesting was that it doesnt account for tips. I do not think it is possible to include that because the tip structure differs so much throughout the industry, but I do think a simple caveate would helpful to make it clear. Another comment mentioned that I did not account for locale. This is a very interesting point that could be explored, if time permits. 
+There were some patterns throughout. One was color. The comments were that the colors within the visualizations themselves were to plentiful. Another common comment was about the layout of some of the visualizations, being hard to read or too small, needing to "scroll". One comment I found interesting was that the presentation and data "doesnt account for tips". I do not think it is possible to include that because the tip structure differs so much throughout the industry, but I do think a simple caveat would helpful to make it clear. Another comment mentioned that I did not account for locale. This is a very interesting point that could be explored, if time permits. 
+
+Another thing I gained from the interviews is that I think my final visualizations depicted wage inequalities are weak. I really wanted them to sing and draw peoples attention in, but I think the heat map is too simple. I do not think it makes enough of a statement to really drive home the point about the story. That is a big deal to me, as I want that to be a major point. Although I think readers get that point from the whole story, I want it to be prominent at the end and there to be a stronger reaction to seeing the information. 
 
 **Changes to Implement**
 1. Streamline colors
 2. Think more about layout of visualizations and adjust accordingly
-3. Build out the resources page to include more actionable information
-4. Build out context and add caveates if necessary
-5. Find data about cost of living/locale, wages and incorporate it into the presentation
+3. Change wage visualization to be more persuasive and stick out a bit more
+4. Build out the resources page to include more actionable information
+5. Build out context and add caveats if necessary
+6. Find data about cost of living/locale, wages and incorporate it into the presentation
 
-FINAL THOUGHTS
+I think most of these changes are reasonable and actionable within a week. They are listed above by ease to do. The last one being the most time intensive. In terms of importance to the story, I think changing the last visualization is most important, followed by adding more resources, then addressing the preattentive attributes. If there is time, I will work on finding more data about specific states and regions to address locale to make the story more well rounded and complete. 
