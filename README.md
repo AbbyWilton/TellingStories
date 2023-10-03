@@ -12,8 +12,6 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 ### Class Examples
 [Tableau Demonstration](/tableauDemo.md)
 
-### Visualization Critiques
-
 ### Homework Visualizations
 [Visualizing Government Debt](/visualizingGovernmentDebt.md)
 
@@ -22,6 +20,6 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 ### Final Project
 Part 1- [Project Proposal and Overview](/finalProjectP1.md)
 
-Part 2- Sketches, Wireframes, Storyboards
+Part 2- [Sketches, Wireframes, Storyboards](/finalProjectP2.md)
 
 Part 3- Final Deliverable and Presentation
