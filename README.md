@@ -11,6 +11,7 @@ Here is the url to my site: https://abbywilton.github.io/Wilton_publicPortfolio/
 
 ### Class Examples
 [Tableau Demonstration](/tableauDemo.md)
+[Flourish Studio Demonstration](/FlourishDemo.md)
 
 ### Homework Visualizations
 [Visualizing Government Debt](/visualizingGovernmentDebt.md)
