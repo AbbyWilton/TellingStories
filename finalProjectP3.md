@@ -3,9 +3,12 @@
 Find my story [here](https://carnegiemellon.shorthandstories.com/beyond-the-kitchen/index.html)
 
 ## Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+**Changes implemented**
+1. Streamline colors: I did get rid of one or two colors within the visualizations themselves. I struggled to really find a palette that spoke to me or that I felt really represented the story as a whole. I stuck with green for money and decided to keep a purple tone to the rest of the visualizations. I think this brought some femininity to the overall presentations. 
+2. Think more about layout of visualizations and adjust accordingly: I made some changes to the consumer trend graph by grouping the major categories. I left food by itself and then grouped the first four major categories together and the rest of the major categories into another group. This made the graph much simplier and easier to read while focusing on the food aspect. 
+3. Change wage visualization to be more persuasive and stick out a bit more: I completely changed this visual. I was not finding one within Tableau that was bold enough to make the statement I wanted it to make. I switched over to Flourish Studio and decided to go with donut charts. While they are not always a great visual, I think for this purpose they work. I am able to show the disparity within each specific job from men to women relatively easily and quickly. It shows how much different the wages are without being busy. 
+4. Build out the resources page to include more actionable information: I added some detail to the education portion of the take action page. I gathered from the interviews that people were interested but wanted more direction. I added some links to specific pages about specific protections for women in the workplace. 
+5. Build out context and add caveats if necessary: One thing I added was two examples of recent law suits brought against companies for gender discrimination. I think this gives valuable context to why the story is still relevant and important over 60 years after some of these laws were put into place. 
 
 ## The audience
 I really wanted to keep the primary audience as females, and specifically females working in the food and restaurant industry. After talking through some of the interviews, I realized the general public is also a good audience and this does affects
