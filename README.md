@@ -24,4 +24,4 @@ Part 1- [Project Proposal and Overview](/finalProjectP1.md)
 
 Part 2- [Sketches, Wireframes, Storyboards](/finalProjectP2.md)
 
-Part 3- Final Deliverable and Presentation
+Part 3- [Final Deliverable and Presentation](/finalProjectP3.md)
