@@ -58,4 +58,4 @@ One of my interviewees brought to my attention that maybe in some states the cos
 may exist and I would be interested to look into those specifications. I learned there are a lot of ways to look at all of this data, and there are definitely some ways to misconstrude it to fit a story, but at the end of the day
 the fact remains that women are still making less. 
 
-[Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
+[Part I](/finalProjectP1.md) | [Part II](/finalProjectP2.md) | [Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
