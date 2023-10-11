@@ -1,4 +1,5 @@
 # Critique by Redesign
+[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/) |[Tableau Demo](/tableauDemo.md) | [Flourish Demo](/FlourishDemo.md) | [Visualizing Government Debt](/visualizingGovernmentDebt.md) | [Final Project](/finalProjectP1.md)
 
 ## Part I: Original Visualization
 The original visualization can be found in the article *Study: For Full-Time College Faculty, Inflation-Adjusted Salaries Up Only 9.5% Since 1970* on
