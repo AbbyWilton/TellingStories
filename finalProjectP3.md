@@ -1,4 +1,5 @@
 # Part 3: The Final Data Story
+[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/) | [Tableau Demo](/tableauDemo.md) | [Flourish Demo](/FlourishDemo.md) | [Visualizing Government Debt](/visualizingGovernmentDebt.md) | [Critique by Redesign](/redesignAssignment.md) | [Final Project Part I](/finalProjectP1.md) | [Final Project Part II](/finalProjectP2.md) 
 
 Find my story [here](https://carnegiemellon.shorthandstories.com/beyond-the-kitchen/index.html)
 
@@ -58,4 +59,3 @@ One of my interviewees brought to my attention that maybe in some states the cos
 may exist and I would be interested to look into those specifications. I learned there are a lot of ways to look at all of this data, and there are definitely some ways to misconstrude it to fit a story, but at the end of the day
 the fact remains that women are still making less. 
 
-[Part I](/finalProjectP1.md) | [Part II](/finalProjectP2.md) | [Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
