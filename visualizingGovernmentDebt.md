@@ -1,4 +1,6 @@
 # Visualizing Government Debt
+[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/) | [Tableau Demo](/tableauDemo.md) | [Flourish Demo](/FlourishDemo.md) | [Critique by Redesign](/redesignAssignment.md) | [Final Project](/finalPorjectP1.md)
+
 ## General Government Debt
 <iframe src="https://data.oecd.org/chart/7b4I" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b4I" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
