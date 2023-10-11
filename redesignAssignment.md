@@ -111,4 +111,3 @@ The final graph is below.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-[Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
