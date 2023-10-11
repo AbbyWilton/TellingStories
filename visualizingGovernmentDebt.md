@@ -19,6 +19,5 @@ Below we see the changes in Government Debt to GDP Ratios over time, and how eac
 
 Sources: OECD Data Download Site [https://data.oecd.org/gga/general-government-debt.htm](https://data.oecd.org/gga/general-government-debt.htm)  
 
-[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
 
 
