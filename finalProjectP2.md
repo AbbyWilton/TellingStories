@@ -57,4 +57,4 @@ Another thing I gained from the interviews is that I think my final visualizatio
 
 I think most of these changes are reasonable and actionable within a week. They are listed above by ease to do. The last one being the most time intensive. In terms of importance to the story, I think changing the last visualization is most important, followed by adding more resources, then addressing the preattentive attributes. If there is time, I will work on finding more data about specific states and regions to address locale to make the story more well rounded and complete. 
 
-[Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
+[Part I](/finalProjectP1.md) | [Part III](/finalProjectP3.md) | [Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
