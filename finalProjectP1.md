@@ -1,4 +1,5 @@
 # Part I: Outline and Data Definiton
+[Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/) | [Tableau Demo](/tableauDemo.md) | [Flourish Demo](/FlourishDemo.md) | [Visualizing Government Debt](/visualizingGovernmentDebt.md) | [Critique by Redesign](/redesignAssignment.md) | [Final Project Part II](/finalProjectP2.md) | [Final Project Part III](/finalProjectP3.md) 
 
 ## Outline
 ### Project Structure & Story Arc
@@ -81,7 +82,6 @@ There is a vast amount of data involved in this project from various sources. In
   
   U.S. Bureau of Labor Statistics. *Average Annual Expenditures and Characteristics of All Consumer Units, Consumer Expenditure Surveys, 2021-2022*. Sept. 2023, https://www.bls.gov/cex/tables/calendar-year/mean/cu-all-multi-year-2021-2022.pdf.
 
-[Part II](/finalProjectP2.md) | [Part III](/finalProjectP3.md) | [Back to Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/)
 
 
 
