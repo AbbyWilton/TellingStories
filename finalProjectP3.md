@@ -1,6 +1,7 @@
 # Part 3: The Final Data Story
 [Home Page](https://abbywilton.github.io/Wilton_publicPortfolio/) | [Tableau Demo](/tableauDemo.md) | [Flourish Demo](/FlourishDemo.md) | [Visualizing Government Debt](/visualizingGovernmentDebt.md) | [Critique by Redesign](/redesignAssignment.md) | [Final Project Part I](/finalProjectP1.md) | [Final Project Part II](/finalProjectP2.md) 
 
+## Final Story
 Find my story [here](https://carnegiemellon.shorthandstories.com/beyond-the-kitchen/index.html)
 
 ## Changes made since Part II
